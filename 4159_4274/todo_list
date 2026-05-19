@@ -1,0 +1,18 @@
+
+Etape 1:
+-Structure    Leila
+-Configuration Database   Tsara
+-Migration  Leila-Tsara
+-Seeder (test)    Leila-Tsara
+
+
+Etape 2 (Client):
+-inscription  Leila
+-connexion  Tsara
+-consulter creneux  
+-reservation 
+
+Etape 3 (Admin):
+-cree/modif/supprimer creneaux  
+-liste reservations
+-status reservations
